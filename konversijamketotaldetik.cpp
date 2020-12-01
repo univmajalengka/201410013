@@ -1,4 +1,3 @@
-//konversi jam, menit dan detik ke total detik
 #include<iostream>
 using namespace std;
 int main()

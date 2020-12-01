@@ -1,4 +1,3 @@
-//Konversi total detik ke Jam, Menit dan Detik
 #include<iostream>
 using namespace std;
 int main()
