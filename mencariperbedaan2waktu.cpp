@@ -1,4 +1,4 @@
-//Mencari Perbedaan 2 Waktu
+//Mencari Perbedaan 2 Waktu (Program Billing Warnet/Telepon)
 #include <iostream>
 using namespace std;
 int main ()
